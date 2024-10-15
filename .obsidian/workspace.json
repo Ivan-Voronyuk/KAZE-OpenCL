@@ -13,21 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Hamming Distance.md",
-                "mode": "source",
+                "file": "Features/Color Features Final.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "440f586f3b8efaf3",
+            "id": "16a0a538cb0f7124",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Features/Binary Descriptors.md",
-                "mode": "source",
-                "source": false
+                "file": "OpenCL.canvas",
+                "viewState": {
+                  "x": -1141.3030891132366,
+                  "y": -1200.23806074619,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Binary Descriptors.md",
+                "file": "OpenCL.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Binary Descriptors.md",
+                "file": "OpenCL.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Binary Descriptors.md"
+                "file": "OpenCL.canvas"
               }
             }
           },
@@ -169,17 +172,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "440f586f3b8efaf3",
+  "active": "16a0a538cb0f7124",
   "lastOpenFiles": [
-    "Features/Hamming Distance.md",
+    "OpenCL.canvas",
     "Features/Color Features Final.md",
+    "Features/Hamming Distance.md",
+    "Features/Binary Descriptors.md",
     "Features/LSB descriptor.md",
     "features.zip",
     "Features/KAZE.md",
     "Features/Color Binary Distance.md",
     "Features/BRIEF.md",
-    "Features/Binary Descriptors.md",
-    "OpenCL.canvas",
     "features.7z",
     "g3.md",
     "OpenCL/OpenCL.canvas",

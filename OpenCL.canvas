@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"4c8ce97caff5d0c9","type":"text","text":"```cpp\nfloat g3(float k, float l2) { return 1 / (1 + pow(l2/k, 3)); }\n```\n","x":-1480,"y":-1120,"width":620,"height":50}
+		{"id":"4c8ce97caff5d0c9","type":"text","text":"```cpp\nfloat g3(float k, float l2) { return 1 / (1 + pow(l2/k, 3)); }\n```\n","x":-1920,"y":-1680,"width":620,"height":50}
 	],
 	"edges":[]
 }
