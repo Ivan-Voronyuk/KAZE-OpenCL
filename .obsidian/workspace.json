@@ -23,8 +23,12 @@
             "id": "440f586f3b8efaf3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Features/Binary Descriptors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Hamming Distance.md",
+                "file": "Features/Binary Descriptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Hamming Distance.md",
+                "file": "Features/Binary Descriptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Hamming Distance.md"
+                "file": "Features/Binary Descriptors.md"
               }
             }
           },
@@ -165,10 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0740051565dd596c",
+  "active": "440f586f3b8efaf3",
   "lastOpenFiles": [
-    "Features/Color Features Final.md",
     "Features/Hamming Distance.md",
+    "Features/Color Features Final.md",
     "Features/LSB descriptor.md",
     "features.zip",
     "Features/KAZE.md",
