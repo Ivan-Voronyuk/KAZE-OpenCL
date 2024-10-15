@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "1b2c40e8b7abdb9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "accf903c39deb00e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a647f7ba3c4e9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Hamming Distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440f586f3b8efaf3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4f9dac20c00f836",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e3c835c4aebfcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0740051565dd596c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "463d1a4f1d3081e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a34c383b276dfae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af32a2cb11f96e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c84ac95e7999cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd088b79defead8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Features/Hamming Distance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8946609073a57be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Features/Hamming Distance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "886e461edc9228c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8f0face9932e89ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Features/Hamming Distance.md"
+              }
+            }
+          },
+          {
+            "id": "864866c987c2743e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 760.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0740051565dd596c",
+  "lastOpenFiles": [
+    "Features/Color Features Final.md",
+    "Features/Hamming Distance.md",
+    "Features/LSB descriptor.md",
+    "features.zip",
+    "Features/KAZE.md",
+    "Features/Color Binary Distance.md",
+    "Features/BRIEF.md",
+    "Features/Binary Descriptors.md",
+    "OpenCL.canvas",
+    "features.7z",
+    "g3.md",
+    "OpenCL/OpenCL.canvas",
+    "OpenCL/g3.md",
+    "OpenCL",
+    "Features/Colored Features.md",
+    "[.md",
+    "features.7z.tmp",
+    "^^^non-symmetric-reason.md",
+    "Features/BRIEF^They.md",
+    "Features/Untitled/BRISK.md",
+    "Features/Untitled",
+    "Binary_Descriptors.md",
+    "Binary.md",
+    "Features"
+  ]
+}
