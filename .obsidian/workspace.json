@@ -27,15 +27,27 @@
               "state": {
                 "file": "OpenCL.canvas",
                 "viewState": {
-                  "x": -1141.3030891132366,
-                  "y": -1200.23806074619,
+                  "x": -1148.645604283813,
+                  "y": -1214.1335627937306,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "01cfcc9d626d2235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCL Algo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCL.canvas",
+                "file": "OpenCL Algo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCL.canvas",
+                "file": "OpenCL Algo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCL.canvas"
+                "file": "OpenCL Algo.md"
               }
             }
           },
@@ -172,9 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16a0a538cb0f7124",
+  "active": "01cfcc9d626d2235",
   "lastOpenFiles": [
     "OpenCL.canvas",
+    "OpenCL Algo.md",
     "Features/Color Features Final.md",
     "Features/Hamming Distance.md",
     "Features/Binary Descriptors.md",
