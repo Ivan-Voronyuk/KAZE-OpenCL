@@ -76,10 +76,16 @@ inline void iterate_pre(half8 L0[5][90], const uchar8 L0_u8[][90], half8 L_[][90
 
 
 ```
-#barrier
+#barrier 
 #convert_half8
-#L0 #L_
-#G #Up #Dn #Lt #Rt #g
+#L0 
+#L_ 
+#G 
+#Up
+#Dn
+#Lt
+#Rt
+#g
 #LP
-#rotate_forward 
+#rotate_forward
 [[conv_L0]]

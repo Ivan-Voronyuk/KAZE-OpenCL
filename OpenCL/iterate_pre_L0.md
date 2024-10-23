@@ -59,13 +59,9 @@ inline void iterate_pre_L0(half8 L0[5][90], const uchar8 L0_u8[][90], half8 L_[]
         g2_3(pown(dx(L_[rot->s1], c), 2) + pown((L_[rot->s2][c] - L_[rot->s0][c]) / 2, 2), k23);
 };
 ```
-#barrier 
+#barrier
 #convert_half8
-[[conv_L0]]
-#dx
-#pown
-#g2_3
-#L0 
-#L_
+#L0 #L_
 #G
-#rotate_forward
+#rotate_forward 
+[[conv_L0]]
